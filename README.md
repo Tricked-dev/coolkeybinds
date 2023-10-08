@@ -2,7 +2,7 @@
 
 Keybinds as json
 
-You can use this library unde the `CC0` license. the code for coolkeybinds can be found in [./src/lib/coolkeybinds.ts](./src/lib/coolkeybinds.ts) and [./src/lib/keybinds.ts](./src/lib/keybinds.ts) just copy the typescript files over to your repo and import them and your done!
+You can use this library unde the [`The Unlicense`](./LICENSE) license. the code for coolkeybinds can be found in [./src/lib/coolkeybinds.ts](./src/lib/coolkeybinds.ts) and [./src/lib/keybinds.ts](./src/lib/keybinds.ts) just copy the typescript files over to your repo and import them and your done!
 If you have any improvements / performance improvements to suggest you can create a pull request
 
 List of the key names <https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values>

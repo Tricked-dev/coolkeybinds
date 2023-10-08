@@ -1,6 +1,7 @@
 {
   "name": "coolkeybinds",
   "type": "module",
+  "license": "THE UNLICENSE",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
